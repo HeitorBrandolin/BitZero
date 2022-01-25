@@ -1,9 +1,10 @@
 # BitZero
-Projeto de sistema de manipulação de informações de clientes da empresa Bitzero, realizado por alunos de ESOFT da UniCesumar
+Projeto de manipulação de informações da empresa Bitzero, realizado por alunos do 2°semestre de Engenharia de Software da UniCesumar.
 
-Todo o projeto fei feito utilizando pseudo-linguagem algorítmica, Portugol, e o VisualG(v3.5) como IDE.
+Todo o projeto fei feito utilizando pseudo-linguagem algorítmica Portugol, e o VisualG(v3.5) como IDE.
 
-## Divisão de cargos.
+## Divisão de cargos
+### Advisor: Alexandre Moreno
 ### Product Owner: Alan Minoru
 ### Scrum Master: Rodrigo Branco
-### Desenvolvedores: Michelle Fregnani, Allan Ogawa, Heitor Brandolin
+### Dev Team: Michelle Fregnani, Allan Ogawa, Heitor Brandolin
