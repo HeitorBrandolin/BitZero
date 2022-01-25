@@ -1,6 +1,7 @@
 # BitZero
 Projeto de sistema de manipulação de informações de clientes da empresa Bitzero, realizado por alunos de ESOFT da UniCesumar
-divisão de cargos.
+
+# Divisão de cargos.
 Product Owner: Alan Minoru
 Scrum Master: Rodrigo Branco
 Desenvolvedores: Michelle Fregnani
